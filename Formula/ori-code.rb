@@ -1,8 +1,8 @@
 class OriCode < Formula
   desc "ORI Code — terminal coding agent powered by ORI"
   homepage "https://github.com/cassianwolfe/ori-code"
-  url "https://github.com/cassianwolfe/ori-code/releases/download/v0.9.6/ori-code-0.9.6.tar.gz"
-  sha256 "d29b76cc724dee89fecf8b2b7549fb97e8060720e91fdb7ce13f4a67e873ba12"
+  url "https://github.com/cassianwolfe/ori-code/releases/download/v0.9.7/ori-code-0.9.7.tar.gz"
+  sha256 "d50041d0d4a02cbc4627542f18ab48451fdc14234d13c13b18caf75455f9aa75"
   license "MIT"
 
   depends_on "oven-sh/bun/bun"
